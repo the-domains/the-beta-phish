@@ -1,0 +1,14 @@
+layout_spectrum: 0.3543795570731163
+typography_spectrum: 0.3263715812936425
+color:
+  brandStrength: 0.5529149461071938
+  lightness: 0.9168517678044736
+  saturation: 0.770089388359338
+  rhythmicContrast: 0.8048443782608956
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: The Beta Phish
